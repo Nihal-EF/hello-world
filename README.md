@@ -2,4 +2,4 @@
 my first  repository 
 
 This is my first GitHub repository 
-edit
+This is my irst github repostory 
