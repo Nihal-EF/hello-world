@@ -7,3 +7,5 @@ This is my irst github repostory
 Modification to test commit and merge 
 
 further edits 
+
+edit in master branch
